@@ -1,6 +1,6 @@
 # Hi there :green_heart: 200 OK!
 
-I am Angelo Nazzaro currently studying ```Computer Science``` at the <a href="https://www.unisa.it/" target="_blank"> University of Salerno</a>. <br>
+I am Angelo Nazzaro currently studying ```Computer Science``` at the <a href="https://www.unisa.it/" target="_blank">University of Salerno</a>. <br>
 I approached the tech world for the first time back into 2018 and from there I knew I found what I was gonna do for the rest of my life. <br> 
 <p align="center">Code :yum:.</p> 
 
@@ -11,6 +11,10 @@ I approached the tech world for the first time back into 2018 and from there I k
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl1mSha4dey&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact" style="height: 140px;"/>
 </div>
 <hr/>
+
+## :tophat::office: Job Experiences: 
+I started my carreer along with @guarriellocristianmichele back in 2019 as a freelancer web developer.
+Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blank"> LCI Agency </a> as senior web developer. 
 
 ## 🛠️ Languages:
 
@@ -45,4 +49,6 @@ I approached the tech world for the first time back into 2018 and from there I k
   <img alt="Code Igniter" src="https://img.shields.io/badge/CodeIgniter-white?style=for-the-badge&logo=codeigniter" height="25px"/>
 </p>
 
-## 
+## :rocket: On the way:
+I am currently learning ```Node.js```, ```React``` and ```Express``` in order to elevate my skills as a web developer. 
+
