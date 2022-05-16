@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## 🛠️ Tools:
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" height="25px"/>
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-F25022?logo=Windows&style=for-the-badge&logoColor=00A4EF" height="25px"/>
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-white?logo=Windows&style=for-the-badge&logoColor=00A4EF" height="25px"/>
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" height="25px"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git?style=for-the-badge&logoColor=white" height="25px"/>
   <img alt="IntellJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=jetbrains" height="25px"/>
