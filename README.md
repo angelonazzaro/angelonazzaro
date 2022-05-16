@@ -1,7 +1,7 @@
 # Hi there :green_heart: 200 OK!
 
 I am Angelo Nazzaro currently studying ```Computer Science``` at the <a href="https://www.unisa.it/" target="_blank">University of Salerno</a>. <br>
-I approached the tech world for the first time back into 2018 and from there I knew I found what I was gonna do for the rest of my life. <br> 
+I approached the tech world for the first time back into 2018 and from there I knew I found what I was gonna do for the rest of my life. 
 <p align="center">Code :yum:.</p> 
 
 <hr/>
