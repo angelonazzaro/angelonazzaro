@@ -27,9 +27,11 @@ Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blan
   <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 
   <img alt="Php" src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=F7DF1E%22" height="25px"/>
+  <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-323330?style=for-the-badge&logo=phpmyadmin&logoColor=F7DF1E%22" height="25px"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" height="25px"/>
+  <img alt="MySQLWorkbench" src="https://img.shields.io/badge/MySQLWorkBench-white?style=for-the-badge&logo=mysql&logoColor=white%22" height="25px" />
 </p>
 
 ## 🛠️ Tools:
