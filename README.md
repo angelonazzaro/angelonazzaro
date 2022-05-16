@@ -1,6 +1,15 @@
-# Hi there :green_heart: 200 OK!
+## Hi there :green_heart: 200 OK!
+<p align="center">
+  I am Angelo Nazzaro currently studying ```Computer Science``` at the <a href="https://www.unisa.it/" target="_blank"> University of Salerno</a>. <br>
+  I approached the tech world for the first time back into 2018 and from there I knew I found what I was gonna do for the rest of my life. Code :yum:. 
+</p>
 
+<hr/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sl1mSha4dey&count_private=true&show_icons=true&theme=yeblu&layout=compact" style="height: 140px;"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl1mSha4dey&langs_count=10&count_private=true&show_icons=true&theme=yeblu&hide=html,css&layout=compact" style="height: 140px;"/>
+ 
+<hr/>
 
 ## 🛠️ Languages:
 
@@ -34,3 +43,5 @@
 <p>
   <img alt="Code Igniter" src="https://img.shields.io/badge/CodeIgniter-white?style=for-the-badge&logo=codeigniter" height="25px"/>
 </p>
+
+## 
