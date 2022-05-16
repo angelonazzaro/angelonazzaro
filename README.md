@@ -11,7 +11,7 @@ I approached the tech world for the first time back into 2018 and from there I k
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl1mSha4dey&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact" style="height: 140px;"/>
 </div>
 
-## :tophat::office: Job Experiences: 
+## :office: Job Experiences: 
 I started my carreer along with @guarriellocristianmichele back in 2019 as a freelancer web developer. <br>
 Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blank"> LCI Agency </a> as senior web developer. 
 
