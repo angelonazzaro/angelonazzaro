@@ -12,7 +12,7 @@ I approached the tech world for the first time back into 2018 and from there I k
 </div>
 
 ## :tophat: Job Experiences: 
-I started my carreer along with [cristianguarriellomichele](https://github.com/guarriellocristianmichele) back in 2019 as a freelancer web developer. <br>
+I started my carreer along with [@cristianguarriellomichele](https://github.com/guarriellocristianmichele) back in 2019 as a freelancer web developer. <br>
 Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blank"> LCI Agency </a> as senior web developer. 
 
 ## :zero::one: Languages:
