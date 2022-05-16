@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" height="25px"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git?style=for-the-badge&logoColor=white" height="25px"/>
   <img alt="IntellJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=jetbrains" height="25px"/>
-  <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-black?style=for-the-badge&logo=jetbrains" height="25px"/>
+  <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-purple?style=for-the-badge&logo=jetbrains" height="25px"/>
   <img alt="WHM" src="https://img.shields.io/badge/WHM-black?style=for-the-badge&logo=cpanel" height="25px" />
   <img alt="Virtual Box" src="https://img.shields.io/badge/Virtual%20Box-black?style=for-the-badge&logo=virtualbox" height="25px" />
 </p>
