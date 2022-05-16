@@ -8,7 +8,7 @@ I approached the tech world for the first time back into 2018 and from there I k
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sl1mSha4dey&count_private=true&show_icons=true&theme=dark&layout=compact" style="height: 140px;"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl1mSha4dey&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact" style="height: 140px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl1mSha4dey&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" style="height: 140px;"/>
 </div>
 
 ## :tophat: Job Experiences: 
