@@ -53,4 +53,7 @@ Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blan
 ## :rocket: On the way:
 I am currently learning ```Node.js```, ```React``` and ```Express``` in order to elevate my skills as a web developer. 
 
+## :coffee:
+If you feel like it, you can buy me a coffee at: [Ko-fi.com/angelonazzaro]
+
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
