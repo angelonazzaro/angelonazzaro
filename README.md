@@ -10,22 +10,21 @@ I wasn't sure what career I wanted to pursue but I decided one thing: I would ha
  
 <div style="margin: 20px"></div>
 
-
-![](https://c4.wallpaperflare.com/wallpaper/12/827/723/kentaro-miura-berserk-guts-wallpaper-preview.jpg)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/58223071/221403401-618fac64-86bb-4512-ab44-d3b707ab3838.png" />
+</div>
+<br>
 
 <div style="text-align: center">
+  <p align="center">
  <b>Dreams</b>. Each man longs to pursue his dream. Each man is tortured by this dream, but the dream gives meaning to his life. Even if the dream ruins his life, man cannot allow himself to leave it behind. In this world, is man ever able to possess anything more solid, than a dream? <br>
  <b>Kentaro Miura</b>
+  </p>
 </div>
 
 <br>
 
 # `lshw`
-
-
-
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
   <img alt="C" src="https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-14354C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25px"/>
@@ -55,19 +54,16 @@ I wasn't sure what career I wanted to pursue but I decided one thing: I would ha
 <br>
 
 # `neofetch`
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sl1mSha4dey&theme=tokyonight) 
- 
-
-<div style="display: flex; width: 99%; overflow: hidden">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sl1mSha4dey&theme=tokyonight" style="width: 50%">
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sl1mSha4dey&theme=tokyonight" style="width: 50%">
+<div align="center" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sl1mSha4dey&theme=tokyonight">
 </div>
- 
-<br>
 
- <div style="display: flex; width: 99%; overflow: hidden">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sl1mSha4dey&theme=tokyonight" style="width: 50%">
+<p align="center" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sl1mSha4dey&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sl1mSha4dey&theme=tokyonight" /> 
+</p>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sl1mSha4dey&theme=tokyonight&utcOffset=8" style="width: 50%">
-</div>
+<p align="center" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sl1mSha4dey&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sl1mSha4dey&theme=tokyonight&utcOffset=8" /> 
+</p>
