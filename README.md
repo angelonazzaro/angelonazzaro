@@ -1,24 +1,34 @@
-# Hi there :green_heart: 200 OK!
-
-I am Angelo Nazzaro currently studying ```Computer Science``` at <a href="https://www.unisa.it/" target="_blank">University of Salerno</a>. <br>
-I approached the tech world for the first time back into 2018 and from there I knew I found what I was gonna do for the rest of my life. 
-<p align="center">Code :yum:.</p> 
-
-<hr/>
-
+# `whoami`
+I am Angelo Nazzaro, an italian developer currently pursuing my bachelor's degree majoring in Computer Science at [University of Salerno](https://www.unisa.it/). <br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sl1mSha4dey&count_private=true&show_icons=true&theme=dark&layout=compact" style="height: 140px;"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl1mSha4dey&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" style="height: 140px;"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=sl1mSha4dey&cc=1A1B26&tc=5FB3A8&ic=B893ED&bc=0000">
+</div>
+<br>
+
+<p>I first approached the tech world back in 2018 and I got my hands dirty on `C++`. In the following months, I have traveled many paths; I went from coding small programs in C++ to developing web sites, mobile apps and other stuff. <br> 
+I wasn't sure what career I wanted to pursue but I decided one thing: I would have become an hell of a programmer.</p>
+ 
+<div style="margin: 20px"></div>
+
+
+![](https://c4.wallpaperflare.com/wallpaper/12/827/723/kentaro-miura-berserk-guts-wallpaper-preview.jpg)
+
+
+<div style="text-align: center">
+ <b>Dreams</b>. Each man longs to pursue his dream. Each man is tortured by this dream, but the dream gives meaning to his life. Even if the dream ruins his life, man cannot allow himself to leave it behind. In this world, is man ever able to possess anything more solid, than a dream? <br>
+ <b>Kentaro Miura</b>
 </div>
 
-## :tophat: Job Experiences: 
-I started my carreer along with [@cristianguarriellomichele](https://github.com/guarriellocristianmichele) back in 2019 as a freelancer web developer. <br>
-Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blank"> LCI Agency </a> as a senior web developer. 
+<br>
 
-## :zero::one: Languages:
+# `lshw`
 
-<p>
+
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
   <img alt="C" src="https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-14354C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25px"/>
   <img alt="Java" src="https://img.shields.io/badge/-java-000000?style=for-the-badge&logo=java" height="25px"/>
 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
@@ -32,10 +42,7 @@ Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blan
 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" height="25px"/>
   <img alt="MySQLWorkbench" src="https://img.shields.io/badge/MySQLWorkBench-white?style=for-the-badge&logo=mysql&logoColor=white%22" height="25px" />
-</p>
 
-## 🛠️ Tools:
-<p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" height="25px"/>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-white?logo=Windows&style=for-the-badge&logoColor=00A4EF" height="25px"/>
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" height="25px"/>
@@ -43,11 +50,24 @@ Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blan
   <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-purple?style=for-the-badge&logo=jetbrains" height="25px"/>
   <img alt="WHM" src="https://img.shields.io/badge/WHM-white?style=for-the-badge&logo=cpanel" height="25px" />
   <img alt="Virtual Box" src="https://img.shields.io/badge/Virtual%20Box-blue?style=for-the-badge&logo=virtualbox" height="25px" />
-</p>
-
-## 🛠️ Frameworks:
-<p>
   <img alt="Code Igniter" src="https://img.shields.io/badge/CodeIgniter-white?style=for-the-badge&logo=codeigniter" height="25px"/>
-</p>
+</div>
+<br>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+# `neofetch`
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sl1mSha4dey&theme=tokyonight) 
+ 
+
+<div style="display: flex; width: 99%; overflow: hidden">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sl1mSha4dey&theme=tokyonight" style="width: 50%">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sl1mSha4dey&theme=tokyonight" style="width: 50%">
+</div>
+ 
+<br>
+
+ <div style="display: flex; width: 99%; overflow: hidden">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sl1mSha4dey&theme=tokyonight" style="width: 50%">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sl1mSha4dey&theme=tokyonight&utcOffset=8" style="width: 50%">
+</div>
