@@ -1,7 +1,7 @@
 # `whoami`
 I am Angelo Nazzaro, an italian developer currently pursuing my bachelor's degree majoring in Computer Science at [University of Salerno](https://www.unisa.it/). <br><br>
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=sl1mSha4dey&cc=1A1B26&tc=5FB3A8&ic=B893ED&bc=0000">
+  <img src="https://github-stats-alpha.vercel.app/api?username=angelonazzaro&cc=1A1B26&tc=5FB3A8&ic=B893ED&bc=0000">
 </div>
 <br>
 
@@ -55,15 +55,15 @@ I wasn't sure what career I wanted to pursue but I decided one thing: I would ha
 
 # `neofetch`
 <div align="center" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sl1mSha4dey&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelonazzaro&theme=tokyonight">
 </div>
 
 <p align="center" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sl1mSha4dey&theme=tokyonight" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sl1mSha4dey&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelonazzaro&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelonazzaro&theme=tokyonight" /> 
 </p>
 
 <p align="center" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sl1mSha4dey&theme=tokyonight" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sl1mSha4dey&theme=tokyonight&utcOffset=8" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelonazzaro&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelonazzaro&theme=tokyonight&utcOffset=8" /> 
 </p>
