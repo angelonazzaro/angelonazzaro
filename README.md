@@ -60,7 +60,7 @@ I wasn't sure what career I wanted to pursue but I decided one thing: I would ha
 
 <p align="center" width="100%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelonazzaro&theme=tokyonight" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelonazzaro&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelonazzaro&theme=tokyonight" /> 
 </p>
 
 <p align="center" width="100%">
