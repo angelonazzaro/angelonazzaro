@@ -68,9 +68,16 @@ I am Angelo Nazzaro, currently pursuing my master's degree in Data Science & Mac
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelonazzaro&theme=tokyonight&utcOffset=8" /> 
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angelonazzaro/angelonazzaro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angelonazzaro/angelonazzaro/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/angelonazzaro/angelonazzaro/output/github-snake.svg" />
+</picture>
+
 <!-- whereis section / contacts -->
 # whereis angelonazzaro 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angelo-nazzaro-369619226/)
 [![LinkedIn](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/angelonazzaro_)
 <!-- [![LinkedIn](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AngeloNazzaro1) -->
+
 
