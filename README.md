@@ -47,6 +47,46 @@ I am Angelo Nazzaro, currently pursuing my master's degree in Data Science & Mac
 <img alt="React" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React" height="25px"/>
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=Next.js" height="25px"/>
 
+# top
+
+#### 🛰️ [RSDiX - Lightweight and Data-Efficient VLMs for Remote Sensing through Self-Distillation](https://github.com/NeuroneLab/RSDiX-CLIP)
+
+🌍 Custom multi-modal CLIP-based models fine-tuned on **remote sensing data** using an additional self-distillation loss to **mitigate intra-class similarities** and **data inefficiency**  
+🥇 Published at [ICJNN 2025](https://2025.ijcnn.org)<br>
+🛠️ Tech: PyTorch, PyTorch Lightning, HuggingFace, CLIP, CLIPCap, SigLIP, SentenceTransformers
+
+
+#### 🧠 [GiBERTino – Multi-party Dialogue Graph Modeling](https://github.com/angelonazzaro/GiBERTino)
+
+🗣️ Modeled dialogue as a graph using **ModernBERT** for text encoding and **GNNs** for context propagation  
+🔗 Performed **link prediction** and **discourse-relation classification**  
+🛠️ Tech: PyTorch Geometric, HuggingFace, matplotlib
+
+#### 💬 [NaLA – Sentiment Analysis on Bluesky Posts](https://github.com/Luigina2001/NaLA)
+
+📈 Evaluated sentiment-analysis models: **Random Forest**, **Naive Bayes**, **MLP**, **BiRNN**, **BERTweet**, **RoBERTa**  
+⚖️ Focused on balancing **classification performance** and **computational efficiency**  
+🛠️ Tech: scikit-learn, PyTorch, HuggingFace, NLTK, matplotlib, numpy  
+
+#### 🧬 [C3DPNet - Protein Structure Prediction](https://github.com/Luigina2001/contrastive-3d-protein-prediction)
+🔬 Contrastive learning framework for 3D protein structures  
+💡 Novel contrastive approach combining **Graph Neural Networks (GNNs)** with **BERT-based embeddings**.  
+🛠️ Tech: PyTorch Geometric, BERT, HuggingFace 
+
+#### 👾 [IpomoeaAquatica – Space Invaders RL](https://github.com/angelonazzaro/IpomoeaAquatica)
+
+🕹️ Trained an agent using **Q-Learning**, **DQN**, and **A3C** to play Space Invaders  
+📊 Compared efficiency and performance of different **reinforcement learning** strategies  
+🛠️ Tech: Python, OpenAI Gym, PyTorch, matplotlib, numpy    
+
+#### 🎨 [Artworks Reconstruction](https://github.com/angelonazzaro/artworks-reconstruction)
+
+🧑‍🎨 Developed a multi-step clustering-algorithm based approach for artwork reconstruction<br>
+⛏️ Worked with real fragments from Paestum's excavations, sourced from a private dataset<br>
+🛠️ Tech: Python, sickit-learn, matplotlib, numpy   
+
+
+
 <!-- neofetch section / statistics -->
 # neofetch 
 
