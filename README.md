@@ -57,9 +57,9 @@ I am Angelo Nazzaro, currently pursuing my master's degree in Data Science & Mac
 
 #### 👓 [UDFD – Deep Fake Detector](https://github.com/frenkmadda/UDFD)
 
-🦾 Created a web app for detecting deep fakes.
-⚖️ Focused on software engigneering applied to AI: **MLOPS Level 2, Fairness, Security, Sustainability**
-🛠️ Tech: PyTorch, HuggingFace, Flask, matplotlib, numpy, pandas, JavaScript, HTML, CSS,
+🦾 Created a web app for detecting deep fakes <br>
+⚖️ Focused on software engigneering applied to AI: **MLOPS Level 2, Fairness, Security, Sustainability** <br>
+🛠️ Tech: PyTorch, HuggingFace, Flask, matplotlib, numpy, pandas, JavaScript, HTML, CSS
 
 #### 🧠 [GiBERTino – Multi-party Dialogue Graph Modeling](https://github.com/angelonazzaro/GiBERTino)
 
