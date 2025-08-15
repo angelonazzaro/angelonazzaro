@@ -67,6 +67,12 @@ I am Angelo Nazzaro, currently pursuing my master's degree in Data Science & Mac
 🔗 Performed **link prediction** and **discourse-relation classification**  
 🛠️ Tech: PyTorch Geometric, HuggingFace, matplotlib
 
+#### ⚕️ [EDSS-classifier – Lightweight CNN and ViT based models for disability level classifcation](https://github.com/angelonazzaro/EDSS-classifier)
+
+🏥 Worked with medical images in an unbalanced setting <br>
+ℹ️ Focused on pratical aspects such as model distribution in constrained environment
+🛠️ Tech: TensorFlow, Keras, matplotlib, numpy
+
 #### 💬 [NaLA – Sentiment Analysis on Bluesky Posts](https://github.com/Luigina2001/NaLA)
 
 📈 Evaluated sentiment-analysis models: **Random Forest**, **Naive Bayes**, **MLP**, **BiRNN**, **BERTweet**, **RoBERTa**  
