@@ -70,7 +70,7 @@ I am Angelo Nazzaro, currently pursuing my master's degree in Data Science & Mac
 #### ⚕️ [EDSS-classifier – Lightweight CNN and ViT based models for disability level classifcation](https://github.com/angelonazzaro/EDSS-classifier)
 
 🏥 Worked with medical images in an unbalanced setting <br>
-ℹ️ Focused on pratical aspects such as model distribution in constrained environment <br>
+ℹ️ Focused on pratical aspects such as model distribution in constrained environments <br>
 🛠️ Tech: TensorFlow, Keras, matplotlib, numpy
 
 #### 💬 [NaLA – Sentiment Analysis on Bluesky Posts](https://github.com/Luigina2001/NaLA)
