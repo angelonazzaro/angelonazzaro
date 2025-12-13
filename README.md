@@ -125,7 +125,8 @@ I am Angelo Nazzaro, currently pursuing my master's degree in Data Science & Mac
 <!-- whereis section / contacts -->
 # whereis angelonazzaro 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angelo-nazzaro-369619226/)
-[![LinkedIn](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/angelonazzaro_)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/angelonazzaro_)
+[![ORCID](https://img.shields.io/badge/-ORCID-8080C?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3969-6170)
 <!-- [![LinkedIn](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AngeloNazzaro1) -->
 
 
