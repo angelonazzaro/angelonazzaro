@@ -49,7 +49,7 @@ I am Angelo Nazzaro, currently pursuing my master's degree in Data Science & Mac
 
 # top
 
-### 🧠 [StrokeFormer: A lightweight approach for stroke lesion segmentation](https://github.com/angelonazzaro/StrokeFormer)
+#### 🧠 [StrokeFormer: A lightweight approach for stroke lesion segmentation](https://github.com/angelonazzaro/StrokeFormer)
 
 ⚕️ A **lightweight** two-stage pipeline for stroke lesion segmentation, designed for clinical deployment with the intent of **reducing computational complexity**, **mitigate severe class imbalance**, and better **exploit anatomical context** <br>
 🧊 Worked with **3D and 2D medical data**, presented an in-depth analysis of ATLAS 2.0 <br>
