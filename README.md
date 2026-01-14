@@ -51,8 +51,8 @@ I am Angelo Nazzaro, currently pursuing my master's degree in Data Science & Mac
 
 ### 🧠 [StrokeFormer: A lightweight approach for stroke lesion segmentation](https://github.com/angelonazzaro/StrokeFormer)
 
-⚕️ A **lightweight** two-stage pipeline for stroke lesion segmentation, designed for clinical deployment. StrokeFormer combines a 2D region proposal mechanism with a 3D native segmentation model to **reduce computational complexity**, **mitigate severe class imbalance**, and better **exploit anatomical context**. <br>
-🧊 Worked with **3D and 2D medical data**, presented an in-depth analysis of ATLAS 2.0
+⚕️ A **lightweight** two-stage pipeline for stroke lesion segmentation, designed for clinical deployment with the intent of **reducing computational complexity**, **mitigate severe class imbalance**, and better **exploit anatomical context** <br>
+🧊 Worked with **3D and 2D medical data**, presented an in-depth analysis of ATLAS 2.0 <br>
 🛠️ Tech: PyTorch, PyTorch Lightning, Wandb, SegFormer3D, MONAI, Faster-R-CNN
 
 #### 🛰️ [RSDiX - Lightweight and Data-Efficient VLMs for Remote Sensing through Self-Distillation](https://github.com/NeuroneLab/RSDiX-CLIP)
