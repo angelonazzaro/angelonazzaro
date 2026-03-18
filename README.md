@@ -1,6 +1,8 @@
 <!--- whoami section -->
 # whoami 
-I am Angelo Nazzaro, currently pursuing my master's degree in Data Science & Machine Learning at [University of Salerno](https://www.unisa.it/). <br>
+I am Angelo Nazzaro. I am currently working a Software Engineer at [Ganiga.ai](https://www.ganiga.ai/en) where we are trying our best to reduce waste and environmental damage deriving from incorrect recylcing practices.
+
+I have a Master's degree in Data Science & Machine Learning and Bachelor's Degree in Computer Science at [University of Salerno](https://www.unisa.it/). <br>
  <br>
 
 <div style="margin: 20px"></div>
